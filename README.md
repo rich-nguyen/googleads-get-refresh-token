@@ -14,7 +14,7 @@ Now you can run the `googleads-get-refresh-token` project interactively. Start t
 
 Input the data mentioned above, and follow the steps. A typical run should look like this:
 
-<img src="doc/example-run.jpg" alt="example run" width="670px" height="295px" />
+<img src="docs/example-run.jpg" alt="example run" width="670px" height="295px" />
 
 
 
