@@ -9,7 +9,8 @@ object GoogleadsGetRefreshToken extends Build {
     .settings(
       organization := "com.gu",
       libraryDependencies ++= Seq(
-        "com.google.api-ads" % "ads-lib" % "2.14.0"
+        "com.google.api-ads" % "ads-lib" % "3.7.0",
+        "com.google.api-client" % "google-api-client" % "1.23.0"
       ),
       resolvers := Seq(
         Classpaths.typesafeReleases,
